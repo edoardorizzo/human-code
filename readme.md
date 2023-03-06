@@ -3,7 +3,14 @@
 ## Ordinare una pizza
 
 - Ho voglia di una pizza
-- Cerco il listino
+- Cerco la pizzeria
+- SCORRO tra le varie opzioni su Google
+    - SE la pizzeria è aperta
+        - Pronoto un tavolo
+    - ALTRIMENTI
+        - continuo a cercare
+- Vado in pizzaria
+- Guardo il listino
 - SCORRO il listino
     - SE Prosciutto e Funghi
         - Ordino quella pizza
@@ -15,8 +22,18 @@
     - ALTRIMENTI
         - Attendo i miei amici
 - Chiamo il cameriere
-- Aspetto il suo arrivo
+- Ordino la pizza
+- Attendo la pizza
+    - SE ho tanta fame
+        - mangio i grissini
+    - ALTRIMENTI
+        - aspetto la pizza
+- Arriva la pizza
 - Inizio a mangiare
+    - SE è troppo calda
+        - soffio
+    - ALTRIMENTI
+        - inio a mangiare
 - FINTANTO CHE ho la pizza nel piatto
     - SE ho ancora fame (per ogni fetta di pizza)
         - Vado avanti a mangiare
