@@ -29,13 +29,12 @@
     - ALTRIMENTI
         - aspetto la pizza
 - Arriva la pizza
-- Inizio a mangiare
     - SE è troppo calda
         - soffio
     - ALTRIMENTI
-        - inio a mangiare
+        - inizo a mangiare
 - FINTANTO CHE ho la pizza nel piatto (per ogni fetta di pizza)
-    - SE ho ancora fame 
+    - SE ho ancora fame
         - Vado avanti a mangiare
     - ALTRIMENTI
         - avanzo la restante
